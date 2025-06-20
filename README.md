@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Duy Anh!
+👩🏻‍💻 An AI Engineer/Data Scientist specialized in builidng Machine Learning models, RAG chatbots and AI Agents<br/>
+✔️ Skilled in Python, SQL and frameworks like PyTorch, TensorFlow, LangChain, LangGraph<br/>
 👩🏻‍🎓 Senior student studying International Economics at Foreign Trade University, Vietnam<br/>
-👩🏻‍💻 Currently learning Data Analytics & Data Science<br/>
-✔️ Skilled in Excel, SQL, Power BI and Python<br/>
-👇 You can find all of my Data Analytics projects below this README file!<br/>
+👇 You can find all of my AI/Data projects below this README file!<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=PhiDuyAnh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
